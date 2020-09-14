@@ -20,7 +20,7 @@ Les lignes d’égales pressions à altitude donnée sont appelées des isob
 Note : à nos latitudes, le moment de la journée ne modifie quasiment pas la pression.
 
 {{< hint warning >}}
-**Quellle est la pression moyenne de l'atmosphère au niveau de la mer?** 
+**Quelle est la pression moyenne de l'atmosphère au niveau de la mer?** 
 {{< expand "Réponse">}}
 1013, 25 hPa 
 {{< /expand >}}
