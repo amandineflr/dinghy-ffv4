@@ -9,11 +9,11 @@ weight: 1
 Les marques latérales servent à baliser les chenaux réservées aux voiliers et aux bateaux. **Leur sens est toujours données pour un véhicule venant du large vers le port.**
 
 ### Chenal classique
-* Toute marque verte, de formes coniques, doit être laissée à tribord en entrant au port.
+* Toute marque verte, de forme conique, doit être laissée à tribord en entrant au port.
 * Toute marque rouge, de forme cylindrique, doit être laissée à bâbord en entrant au port.
 {{< figure caption="Marques latérales de chenal classique" src="images/marques-laterales.jpg" >}}
 
-Moyen mnémotechnique: « En entrant au port, je porte un tricot vert et deux bas si rouges ». 
+Moyen mémotechnique: « En entrant au port, je porte un tricot vert et deux bas si rouges ». 
 
 ### Chenal préféré
 {{< figure caption="Marques latérales avec chenal préféré" src="images/marques-laterales-prefere.jpg" >}}
@@ -21,17 +21,17 @@ Si un chenal se divise, les marques de chenal secondaire ont en plus une bande r
 
 ## Cardinales
 
-Les cardinales servent à baliser un danger. IL faut observer la carte pour déterminer la nature exacte de celui-ci et le parer efficacement.
+Les cardinales servent à baliser un danger. Il faut observer la carte pour déterminer la nature exacte de celui-ci et le parer efficacement.
 
 Une balise cardinale indique la zone saine par rapport aux dangers
 **Exemple**: Une balise cardinale sud est placée au sud du danger, on doit donc passer au sud de celle-ci pour le parer.
 
 {{< figure caption="Balises cardinales" src="images/cardinal_marks.png" >}}
-Le marquage de couleur correspond aux pointes de la cardinales:
+Le marquage de couleur correspond aux pointes de la cardinale :
  * Nord: bande noire en haut
- * Sud: Bande noire en bas
- * Est: Bandes noires en haut et en bas
- * Ouest: Bande noire au centre
+ * Sud: bande noire en bas
+ * Est: bandes noires en haut et en bas
+ * Ouest: bande noire au centre
 
 {{< figure caption="Moyens mnémotechnique pour les cardinales Ouest et Est" src="images/mnemo-cardinal.png" >}}
 
@@ -92,6 +92,6 @@ Du fait de notre activité (voile légère avec très peu de tirant d’eau)
 
 {{< figure caption="Alignement à l'entrée du port de Concarneau" src="images/alignement-concarneau.png" >}}
 
-Soyez critiques avec vos alignements: ils peuvent être difficile à tenir (alignement en arrière, vent refusant), ou bien invisible depuis le ras de l'eau.
+Soyez critiques avec vos alignements: ils peuvent être difficiles à tenir (alignement en arrière, vent refusant), ou bien invisibles depuis le ras de l'eau.
 
 {{< navigation parent="/" >}}
