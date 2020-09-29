@@ -7,11 +7,11 @@ weight: 1
 
 ## Définitions
 
-* **Maré**e: mouvement journalier d’oscillation de la mer dont le niveau monte et descend alternativement en un même lieu,provoqué par l’attraction de la Lune et du Soleil.
+* **Marée**: mouvement journalier d’oscillation de la mer dont le niveau monte et descend alternativement en un même lieu,provoqué par l’attraction de la Lune et du Soleil.
 
 * **Flux ou Flot**: marée montante.
 
-* **Pleine mer**: marée haute.
+* **Pleine mer** (PM): marée haute.
 
 * **Jusant ou reflux**: marée descendante.
 
