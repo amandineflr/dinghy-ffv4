@@ -14,7 +14,7 @@ Pour savoir si l’on peut passer à un endroit, il faut calculer la hauteur d�
  * une carte (Carte du SHOM par exemple)
  * un calendrier des marées pour l’endroit où l’on navigue. (Almanach du marin Breton par exemple) 
  
-Le SHOM ne pouvant pas calculer les marées pour tous les ports de France, il y a des ports de références et des ports rattachés. Ces derniers dépendent des ports de références avec des corrections en hauteur d’eau et en heure de PM et BM.
+Le SHOM ne pouvant pas calculer les marées pour tous les ports de France, il y a des ports de références et des ports rattachés. Ces derniers dépendent des ports de références avec des corrections en hauteur d’eau et en heure de PM (Pleine Mer) et BM (Basse Mer).
 
 Soyez vigilant aux points suivants:
 * Sur les calendriers des marées, l’heure correspond rarement à l'heure locale. 
@@ -31,7 +31,7 @@ Le cycle des marées en France est de 2 marées par jour, il peut être repre�
  Afin de le représenter plus facilement, on linéarise le sinus en déformant l’axe temporel. En effet, en changeant l'échelle du graphique, la courbe est désormais une droite. C’est la méthode des douzièmes.
 {{< /columns >}}
 
-Avant de commencer à calculer, il faut trouver deux éléments:  
+Avant de commencer à calculer, il faut trouver deux éléments:
 * L’amplitude: Hauteur à PM – Hauteur à BM
 * L’heure marée : Temps entre PM et BM / 6
 
