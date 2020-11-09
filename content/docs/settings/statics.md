@@ -23,6 +23,6 @@ Vous trouverez plus d'informations sur "Comment gréer un laser" en annexe.
 {{< figure src="../images/laser-standard.jpeg" caption="Laser standard" >}}
 {{< /columns >}}
 
-Sur d'autres supports de dériveur, il est possible de **prendre un ris** ("ariser la voile"). Ceci consiste à réduire la surface d'une voile en la repliant en partie : l'objectif est d'adapter la surface de la voilure à la force du vent lorsque celui-ci forcit.
+Sur d'autres supports de dériveur, il est possible de **prendre un ris** ("ariser la voile"). Ceci consiste à réduire la surface d'une voile en la repliant en partie : l'objectif est d'adapter la surface de la voilure à la force du vent lorsque celui-ci forcit et d'abaisser le centre de poussée vélique. Un voilier qui porte la toile du temps est plus maniable, plus sûr et souvent plus rapide que s'il porte trop de toile.
 
 {{< navigation parent="/docs/settings" next="/docs/settings/dynamics" >}}
